@@ -3,7 +3,7 @@
 ## Platform and environment details
 The system is built on the Java platform. The required technologies and software are following
 - My SQL 8
-- Java Builds Tools : Apache Maven
+- Java Builds Tools : Apache Maven (Netbeans)
 - JDK 11
 
 ## Tic Tac Toe Game
