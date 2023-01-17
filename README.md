@@ -1,5 +1,5 @@
 # Project OOP Kelompok 3
-![Desktop - 4](https://user-images.githubusercontent.com/97217396/212530550-d9b4a6f5-2b56-463f-a9cd-c64e762c734c.png)
+![Desktop - 4 (1)](https://user-images.githubusercontent.com/97217396/212854525-e453d635-1a92-453d-a01f-260f4911040c.png)
 ## Platform and environment details
 The system is built on the Java platform. The required technologies and software are following
 - My SQL 8
